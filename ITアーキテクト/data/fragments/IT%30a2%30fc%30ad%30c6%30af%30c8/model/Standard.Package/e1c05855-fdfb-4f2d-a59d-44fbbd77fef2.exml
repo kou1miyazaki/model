@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="itアーキテクト" version="4">
+  <OBJECT>
+    <ID name="itアーキテクト" mc="Standard.Package" uid="e1c05855-fdfb-4f2d-a59d-44fbbd77fef2"/>
+    <PID name="ITアーキテクト" mc="Standard.Project" uid="7ba4c6c7-77b4-4c7f-85d1-80e0db921c68"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[itアーキテクト]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>
